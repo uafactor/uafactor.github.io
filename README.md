@@ -1,22 +1,24 @@
-# Leon Brown portfolio site
+# uafactor.com portfolio
 
-This repository contains the source for **uafactor.com**.
+Upload the contents of this ZIP to the root of the `uafactor.github.io` repository.
 
-## Files
+## Upload all of these
 
-- `index.html` — page structure and content
-- `styles.css` — visual design and responsive layout
-- `script.js` — mobile navigation and current-year footer
-- `CNAME` — preserves the custom GitHub Pages domain
-- `404.html` — simple fallback page
+- `index.html`
+- `styles.css`
+- `script.js`
+- `404.html`
+- `CNAME`
+- `README.md`
+- the entire `assets` folder
 
-## Publish on GitHub Pages
+GitHub can overwrite the existing files.
 
-1. Upload all files to the root of the `uafactor.github.io` repository.
-2. In **Settings → Pages**, publish from the `main` branch and `/ (root)`.
-3. Keep the custom domain set to `uafactor.com`.
-4. Keep **Enforce HTTPS** enabled.
+## GitHub Pages
 
-## Customize next
+Keep the site configured to publish from:
 
-Replace the representative case studies with approved public work, add a résumé link, and add any social profile links you want to expose.
+- Branch: `main`
+- Folder: `/ (root)`
+- Custom domain: `uafactor.com`
+- Enforce HTTPS: enabled
